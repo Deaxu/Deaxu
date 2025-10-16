@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Deaxu 👋
 
-<!--
-**Deaxu/Deaxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Deaxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deaxu&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deaxu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deaxu&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deaxu&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Deaxu&color=blueviolet)
