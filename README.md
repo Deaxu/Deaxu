@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey! Welcome to my little tech space
+  Welcome to my little tech space
 
 ### Dursun Emre Aksu
 
