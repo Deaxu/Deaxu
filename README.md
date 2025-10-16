@@ -2,11 +2,11 @@
 
 # 👋 Hey! Welcome to my little tech space
 
-> 🎮 Developer | 🎨 Creator | 🚀 Tech Enthusiast
+### Dursun Emre Aksu
 
-<img src="https://raw.githubusercontent.com/Deaxu/Deaxu/main/assets/coding.gif" width="300" alt="coding gif"/>
+> 🎯 Developer | 💻 Tech Enthusiast | 🚀 Always Learning
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Game+Developer;Always+learning+new+things;Love+to+code+and+create!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Python+Developer;Blockchain+%26+Smart+Contracts;Machine+Learning+Enthusiast;Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,9 +30,11 @@
 
 <div align="center">
 
-<!-- Projelerinizi buraya ekleyin -->
-### 🎮 [Your Featured Project](https://github.com/Deaxu)
-*Projenizin kısa açıklaması buraya gelecek*
+### 🔗 [ulublock-auction](https://github.com/Deaxu/ulublock-auction)
+*Rust smart contract for NFT (CW721) auctions on blockchain*
+
+### 📱 [HiddenSpots](https://github.com/Deaxu/HiddenSpots)
+*Kotlin application for discovering hidden locations*
 
 </div>
 
@@ -43,32 +45,13 @@
 <div align="center">
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Frameworks
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
----
-
-## 🏆 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deaxu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📫 𝙂𝙚𝙩 𝙞𝙣 𝙏𝙤𝙪𝙘𝙝
 
@@ -77,33 +60,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Deaxu?label=Follow&style=social)](https://github.com/Deaxu)
 [![Profile Views](https://komarev.com/ghpvc/?username=Deaxu&color=blueviolet&style=flat-square)](https://github.com/Deaxu)
 
-<!-- Sosyal medya linklerinizi buraya ekleyin
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deaxu)
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/Deaxu/Deaxu/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ⭐️ From [Deaxu](https://github.com/Deaxu)
 
