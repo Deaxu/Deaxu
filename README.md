@@ -44,9 +44,27 @@ Security        Taint Analysis · CVE/OSV · SAST Patterns
 
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deaxu&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deaxu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_title=true&rank_icon=percentile)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deaxu&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deaxu/Deaxu/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deaxu/Deaxu/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Deaxu/Deaxu/output/snake-dark.svg" />
+</picture>
 
 </div>
 
