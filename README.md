@@ -18,13 +18,7 @@ Autonomous AI agent framework — agents write and execute real Python in a sand
 
 ---
 
-### ArchGraph
-
-<a href="https://github.com/Deaxu/ArchGraph">
-  <img align="center" src="https://github-readme-stats-emreaxu2004-3681s-projects.vercel.app/api/pin/?username=Deaxu&repo=ArchGraph&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-<br><br>
+### [ArchGraph](https://github.com/Deaxu/ArchGraph)
 
 Security-first code intelligence for AI agents. Multi-language graph extraction (11 languages), taint analysis, CVE detection, MCP server, Cypher query interface. Built so agents can reason about codebases the way a senior engineer would.
 
@@ -43,16 +37,6 @@ Security        Taint Analysis · CVE/OSV · SAST Patterns
 ---
 
 <div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=Deaxu&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-emreaxu2004-3681s-projects.vercel.app/api?username=Deaxu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_title=true&rank_icon=percentile)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deaxu&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
