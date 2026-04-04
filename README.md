@@ -44,7 +44,7 @@ Security        Taint Analysis · CVE/OSV · SAST Patterns
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-emreaxu2004-3681s-projects.vercel.app/?username=Deaxu&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Deaxu&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
