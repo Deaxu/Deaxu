@@ -2,7 +2,7 @@
 
 # Dursun Emre Aksu
 
-**Building autonomous AI agents that understand code.**
+**Building autonomous AI agents**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Autonomous+Agent+Frameworks;Code+Intelligence+%26+Static+Analysis;Security+Research;MCP+%7C+Graph+Databases+%7C+Reverse+Engineering)](https://git.io/typing-svg)
 
